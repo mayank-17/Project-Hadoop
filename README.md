@@ -18,4 +18,4 @@ Part 5: Twitter’s Top 10 popular Hashtag Streaming per second using Apache Spa
            Objective: to find the Top 10 popular Hashtag on Twitter and perform Web Scraping using Spark 
 & Scala to stream the data on per second basis. 
 
-### To view the Project please download Mini Project Report.pdf file
+### To view the Project please download Mini Project Report.pdf File
